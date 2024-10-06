@@ -14,7 +14,7 @@ function App() {
         <Nav>
           <LogoContainer>
             <LuChefHat />
-            <Logo to={'/'}>Chefs Kiss</Logo>
+            <Logo to={'/'}>Chef's Kiss</Logo>
           </LogoContainer>
             <AboutLink to={'/about'}>About</AboutLink> {/* Added About link */}
         </Nav>
